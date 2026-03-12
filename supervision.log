@@ -1,0 +1,183 @@
+2026-03-12 11:57:25,648 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 11:57:26,461 [INFO] Base de données initialisée
+2026-03-12 11:57:26,462 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 11:57:26,462 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 12:00:54,829 [INFO] Nouvelle connexion: ('127.0.0.1', 55444)
+2026-03-12 12:08:10,083 [INFO] Nouvelle connexion: ('127.0.0.1', 55634)
+2026-03-12 12:08:10,084 [WARNING] Message invalide de ('127.0.0.1', 55634): GET / HTTP/1.1
+2026-03-12 12:08:10,084 [WARNING] Message invalide de ('127.0.0.1', 55634): Host: 127.0.0.1:9999
+2026-03-12 12:08:10,086 [INFO] Nouvelle connexion: ('127.0.0.1', 55635)
+2026-03-12 12:08:10,120 [WARNING] Message invalide de ('127.0.0.1', 55634): Connection: keep-alive
+2026-03-12 12:08:10,121 [WARNING] Message invalide de ('127.0.0.1', 55634): sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+2026-03-12 12:08:10,121 [WARNING] Message invalide de ('127.0.0.1', 55634): sec-ch-ua-mobile: ?0
+2026-03-12 12:08:10,121 [WARNING] Message invalide de ('127.0.0.1', 55634): sec-ch-ua-platform: "Windows"
+2026-03-12 12:08:10,121 [WARNING] Message invalide de ('127.0.0.1', 55634): Upgrade-Insecure-Requests: 1
+2026-03-12 12:08:10,122 [WARNING] Message invalide de ('127.0.0.1', 55634): User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+2026-03-12 12:08:10,122 [WARNING] Message invalide de ('127.0.0.1', 55634): Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q
+2026-03-12 12:08:10,122 [WARNING] Message invalide de ('127.0.0.1', 55634): Sec-Fetch-Site: none
+2026-03-12 12:08:10,122 [WARNING] Message invalide de ('127.0.0.1', 55634): Sec-Fetch-Mode: navigate
+2026-03-12 12:08:10,123 [WARNING] Message invalide de ('127.0.0.1', 55634): Sec-Fetch-User: ?1
+2026-03-12 12:08:10,123 [WARNING] Message invalide de ('127.0.0.1', 55634): Sec-Fetch-Dest: document
+2026-03-12 12:08:10,123 [WARNING] Message invalide de ('127.0.0.1', 55634): Accept-Encoding: gzip, deflate, br, zstd
+2026-03-12 12:08:10,123 [WARNING] Message invalide de ('127.0.0.1', 55634): Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+2026-03-12 12:08:50,712 [INFO] Client déconnecté: ('127.0.0.1', 55635)
+2026-03-12 12:09:40,186 [INFO] Client déconnecté: ('127.0.0.1', 55634)
+2026-03-12 12:09:41,269 [INFO] Nouvelle connexion: ('127.0.0.1', 55670)
+2026-03-12 12:09:41,269 [INFO] Nouvelle connexion: ('127.0.0.1', 55671)
+2026-03-12 12:09:41,273 [WARNING] Message invalide de ('127.0.0.1', 55670): GET / HTTP/1.1
+2026-03-12 12:09:41,275 [WARNING] Message invalide de ('127.0.0.1', 55670): Host: 127.0.0.1:9999
+2026-03-12 12:09:41,277 [WARNING] Message invalide de ('127.0.0.1', 55670): Connection: keep-alive
+2026-03-12 12:09:41,277 [WARNING] Message invalide de ('127.0.0.1', 55670): Cache-Control: max-age=0
+2026-03-12 12:09:41,279 [WARNING] Message invalide de ('127.0.0.1', 55670): sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+2026-03-12 12:09:41,280 [WARNING] Message invalide de ('127.0.0.1', 55670): sec-ch-ua-mobile: ?0
+2026-03-12 12:09:41,280 [WARNING] Message invalide de ('127.0.0.1', 55670): sec-ch-ua-platform: "Windows"
+2026-03-12 12:09:41,281 [WARNING] Message invalide de ('127.0.0.1', 55670): Upgrade-Insecure-Requests: 1
+2026-03-12 12:09:41,281 [WARNING] Message invalide de ('127.0.0.1', 55670): User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+2026-03-12 12:09:41,282 [WARNING] Message invalide de ('127.0.0.1', 55670): Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q
+2026-03-12 12:09:41,283 [WARNING] Message invalide de ('127.0.0.1', 55670): Sec-Fetch-Site: none
+2026-03-12 12:09:41,283 [WARNING] Message invalide de ('127.0.0.1', 55670): Sec-Fetch-Mode: navigate
+2026-03-12 12:09:41,283 [WARNING] Message invalide de ('127.0.0.1', 55670): Sec-Fetch-User: ?1
+2026-03-12 12:09:41,283 [WARNING] Message invalide de ('127.0.0.1', 55670): Sec-Fetch-Dest: document
+2026-03-12 12:09:41,284 [WARNING] Message invalide de ('127.0.0.1', 55670): Accept-Encoding: gzip, deflate, br, zstd
+2026-03-12 12:09:41,284 [WARNING] Message invalide de ('127.0.0.1', 55670): Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+2026-03-12 12:10:43,357 [INFO] Client déconnecté: ('127.0.0.1', 55671)
+2026-03-12 12:11:11,379 [INFO] Client déconnecté: ('127.0.0.1', 55670)
+2026-03-12 12:11:11,384 [INFO] Nouvelle connexion: ('127.0.0.1', 55709)
+2026-03-12 12:11:11,385 [WARNING] Message invalide de ('127.0.0.1', 55709): GET / HTTP/1.1
+2026-03-12 12:11:11,385 [WARNING] Message invalide de ('127.0.0.1', 55709): Host: 127.0.0.1:9999
+2026-03-12 12:11:11,385 [WARNING] Message invalide de ('127.0.0.1', 55709): Connection: keep-alive
+2026-03-12 12:11:11,386 [WARNING] Message invalide de ('127.0.0.1', 55709): Cache-Control: max-age=0
+2026-03-12 12:11:11,386 [WARNING] Message invalide de ('127.0.0.1', 55709): sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+2026-03-12 12:11:11,386 [WARNING] Message invalide de ('127.0.0.1', 55709): sec-ch-ua-mobile: ?0
+2026-03-12 12:11:11,386 [WARNING] Message invalide de ('127.0.0.1', 55709): sec-ch-ua-platform: "Windows"
+2026-03-12 12:11:11,386 [WARNING] Message invalide de ('127.0.0.1', 55709): Upgrade-Insecure-Requests: 1
+2026-03-12 12:11:11,387 [WARNING] Message invalide de ('127.0.0.1', 55709): User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+2026-03-12 12:11:11,387 [WARNING] Message invalide de ('127.0.0.1', 55709): Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q
+2026-03-12 12:11:11,387 [WARNING] Message invalide de ('127.0.0.1', 55709): Sec-Fetch-Site: none
+2026-03-12 12:11:11,388 [WARNING] Message invalide de ('127.0.0.1', 55709): Sec-Fetch-Mode: navigate
+2026-03-12 12:11:11,388 [WARNING] Message invalide de ('127.0.0.1', 55709): Sec-Fetch-User: ?1
+2026-03-12 12:11:11,388 [WARNING] Message invalide de ('127.0.0.1', 55709): Sec-Fetch-Dest: document
+2026-03-12 12:11:11,388 [WARNING] Message invalide de ('127.0.0.1', 55709): Accept-Encoding: gzip, deflate, br, zstd
+2026-03-12 12:11:11,388 [WARNING] Message invalide de ('127.0.0.1', 55709): Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+2026-03-12 12:12:41,505 [INFO] Client déconnecté: ('127.0.0.1', 55709)
+2026-03-12 12:13:36,834 [INFO] Nouvelle connexion: ('127.0.0.1', 55775)
+2026-03-12 12:13:36,835 [WARNING] Message invalide de ('127.0.0.1', 55775): GET / HTTP/1.1
+2026-03-12 12:13:36,836 [WARNING] Message invalide de ('127.0.0.1', 55775): Host: 127.0.0.1:9999
+2026-03-12 12:13:36,836 [WARNING] Message invalide de ('127.0.0.1', 55775): Connection: keep-alive
+2026-03-12 12:13:36,837 [WARNING] Message invalide de ('127.0.0.1', 55775): Cache-Control: max-age=0
+2026-03-12 12:13:36,840 [WARNING] Message invalide de ('127.0.0.1', 55775): sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+2026-03-12 12:13:36,841 [INFO] Nouvelle connexion: ('127.0.0.1', 55776)
+2026-03-12 12:13:36,845 [WARNING] Message invalide de ('127.0.0.1', 55775): sec-ch-ua-mobile: ?0
+2026-03-12 12:13:36,851 [WARNING] Message invalide de ('127.0.0.1', 55775): sec-ch-ua-platform: "Windows"
+2026-03-12 12:13:36,852 [WARNING] Message invalide de ('127.0.0.1', 55775): Upgrade-Insecure-Requests: 1
+2026-03-12 12:13:36,852 [WARNING] Message invalide de ('127.0.0.1', 55775): User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+2026-03-12 12:13:36,853 [WARNING] Message invalide de ('127.0.0.1', 55775): Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q
+2026-03-12 12:13:36,854 [WARNING] Message invalide de ('127.0.0.1', 55775): Sec-Fetch-Site: none
+2026-03-12 12:13:36,854 [WARNING] Message invalide de ('127.0.0.1', 55775): Sec-Fetch-Mode: navigate
+2026-03-12 12:13:36,855 [WARNING] Message invalide de ('127.0.0.1', 55775): Sec-Fetch-User: ?1
+2026-03-12 12:13:36,855 [WARNING] Message invalide de ('127.0.0.1', 55775): Sec-Fetch-Dest: document
+2026-03-12 12:13:36,855 [WARNING] Message invalide de ('127.0.0.1', 55775): Accept-Encoding: gzip, deflate, br, zstd
+2026-03-12 12:13:36,855 [WARNING] Message invalide de ('127.0.0.1', 55775): Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+2026-03-12 12:15:06,967 [INFO] Client déconnecté: ('127.0.0.1', 55776)
+2026-03-12 12:15:06,967 [INFO] Client déconnecté: ('127.0.0.1', 55775)
+2026-03-12 12:21:42,399 [INFO] Nouvelle connexion: ('127.0.0.1', 55965)
+2026-03-12 12:21:42,401 [INFO] Nouvelle connexion: ('127.0.0.1', 55966)
+2026-03-12 12:21:42,403 [WARNING] Message invalide de ('127.0.0.1', 55965): GET / HTTP/1.1
+2026-03-12 12:21:42,405 [WARNING] Message invalide de ('127.0.0.1', 55965): Host: 127.0.0.1:9999
+2026-03-12 12:21:42,405 [WARNING] Message invalide de ('127.0.0.1', 55965): Connection: keep-alive
+2026-03-12 12:21:42,406 [WARNING] Message invalide de ('127.0.0.1', 55965): Cache-Control: max-age=0
+2026-03-12 12:21:42,407 [WARNING] Message invalide de ('127.0.0.1', 55965): sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+2026-03-12 12:21:42,407 [WARNING] Message invalide de ('127.0.0.1', 55965): sec-ch-ua-mobile: ?0
+2026-03-12 12:21:42,419 [WARNING] Message invalide de ('127.0.0.1', 55965): sec-ch-ua-platform: "Windows"
+2026-03-12 12:21:42,421 [WARNING] Message invalide de ('127.0.0.1', 55965): Upgrade-Insecure-Requests: 1
+2026-03-12 12:21:42,421 [WARNING] Message invalide de ('127.0.0.1', 55965): User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+2026-03-12 12:21:42,422 [WARNING] Message invalide de ('127.0.0.1', 55965): Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q
+2026-03-12 12:21:42,422 [WARNING] Message invalide de ('127.0.0.1', 55965): Sec-Fetch-Site: none
+2026-03-12 12:21:42,423 [WARNING] Message invalide de ('127.0.0.1', 55965): Sec-Fetch-Mode: navigate
+2026-03-12 12:21:42,423 [WARNING] Message invalide de ('127.0.0.1', 55965): Sec-Fetch-User: ?1
+2026-03-12 12:21:42,424 [WARNING] Message invalide de ('127.0.0.1', 55965): Sec-Fetch-Dest: document
+2026-03-12 12:21:42,429 [WARNING] Message invalide de ('127.0.0.1', 55965): Accept-Encoding: gzip, deflate, br, zstd
+2026-03-12 12:21:42,430 [WARNING] Message invalide de ('127.0.0.1', 55965): Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+2026-03-12 12:21:56,939 [INFO] Client déconnecté: ('127.0.0.1', 55966)
+2026-03-12 12:23:12,529 [INFO] Client déconnecté: ('127.0.0.1', 55965)
+2026-03-12 12:24:45,641 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 12:25:16,564 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.3%
+2026-03-12 12:28:07,836 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 12:28:23,472 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.2%
+2026-03-12 12:28:39,040 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.6%
+2026-03-12 12:28:55,004 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 12:29:10,892 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.7%
+2026-03-12 12:29:26,032 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 12:29:41,716 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.2%
+2026-03-12 12:30:28,140 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.2%
+2026-03-12 12:32:04,864 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.8%
+2026-03-12 12:32:48,843 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.1%
+2026-03-12 13:27:25,225 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.8%
+2026-03-12 13:27:39,106 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.1%
+2026-03-12 13:30:08,926 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.8%
+2026-03-12 13:42:07,320 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.8%
+2026-03-12 13:42:14,980 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.3%
+2026-03-12 14:37:46,102 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.1%
+2026-03-12 14:46:04,613 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.1%
+2026-03-12 14:53:45,149 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.3%
+2026-03-12 14:53:58,472 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 14:54:58,429 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 14:55:47,008 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 14:56:01,943 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.2%
+2026-03-12 14:57:23,331 [INFO] Nouvelle connexion: ('127.0.0.1', 54801)
+2026-03-12 14:58:07,079 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.2%
+2026-03-12 14:58:22,775 [INFO] Nouvelle connexion: ('127.0.0.1', 54865)
+2026-03-12 14:58:22,820 [WARNING] Message invalide de ('127.0.0.1', 54865): GET / HTTP/1.1
+2026-03-12 14:58:22,821 [WARNING] Message invalide de ('127.0.0.1', 54865): Host: 127.0.0.1:9999
+2026-03-12 14:58:22,821 [WARNING] Message invalide de ('127.0.0.1', 54865): Connection: keep-alive
+2026-03-12 14:58:22,822 [WARNING] Message invalide de ('127.0.0.1', 54865): sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+2026-03-12 14:58:22,822 [WARNING] Message invalide de ('127.0.0.1', 54865): sec-ch-ua-mobile: ?0
+2026-03-12 14:58:22,891 [WARNING] Message invalide de ('127.0.0.1', 54865): sec-ch-ua-platform: "Windows"
+2026-03-12 14:58:22,891 [WARNING] Message invalide de ('127.0.0.1', 54865): Upgrade-Insecure-Requests: 1
+2026-03-12 14:58:22,892 [WARNING] Message invalide de ('127.0.0.1', 54865): User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+2026-03-12 14:58:22,892 [WARNING] Message invalide de ('127.0.0.1', 54865): Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q
+2026-03-12 14:58:22,892 [WARNING] Message invalide de ('127.0.0.1', 54865): Sec-Fetch-Site: none
+2026-03-12 14:58:22,892 [WARNING] Message invalide de ('127.0.0.1', 54865): Sec-Fetch-Mode: navigate
+2026-03-12 14:58:22,893 [WARNING] Message invalide de ('127.0.0.1', 54865): Sec-Fetch-User: ?1
+2026-03-12 14:58:22,893 [WARNING] Message invalide de ('127.0.0.1', 54865): Sec-Fetch-Dest: document
+2026-03-12 14:58:22,893 [WARNING] Message invalide de ('127.0.0.1', 54865): Accept-Encoding: gzip, deflate, br, zstd
+2026-03-12 14:58:22,893 [WARNING] Message invalide de ('127.0.0.1', 54865): Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+2026-03-12 14:58:22,911 [INFO] Nouvelle connexion: ('127.0.0.1', 54866)
+2026-03-12 14:58:23,280 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 14:58:38,558 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.6%
+2026-03-12 14:58:53,824 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.5%
+2026-03-12 14:59:09,371 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.8%
+2026-03-12 14:59:19,548 [ERROR] Erreur réception [('127.0.0.1', 54801)]: [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
+2026-03-12 14:59:19,572 [INFO] Client déconnecté: ('127.0.0.1', 54801)
+2026-03-12 14:59:25,259 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.8%
+2026-03-12 14:59:40,893 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.9%
+2026-03-12 14:59:52,990 [INFO] Client déconnecté: ('127.0.0.1', 54865)
+2026-03-12 14:59:53,176 [INFO] Client déconnecté: ('127.0.0.1', 54866)
+2026-03-12 14:59:56,304 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.1%
+2026-03-12 15:00:13,260 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.8%
+2026-03-12 15:00:43,239 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 15:00:58,885 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.8%
+2026-03-12 15:01:29,797 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.3%
+2026-03-12 15:01:45,364 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 15:02:02,031 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.8%
+2026-03-12 15:02:16,665 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.8%
+2026-03-12 15:03:03,555 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.1%
+2026-03-12 15:03:19,326 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.4%
+2026-03-12 15:03:34,689 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.1%
+2026-03-12 15:03:50,501 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 94.2%
+2026-03-12 15:04:06,590 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.6%
+2026-03-12 15:04:22,835 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.8%
+2026-03-12 15:04:37,580 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.1%
+2026-03-12 15:05:57,138 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.1%
+2026-03-12 15:06:11,677 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.5%
+2026-03-12 15:06:27,196 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 15:06:43,187 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 15:06:58,751 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.8%
+2026-03-12 15:07:14,388 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.0%
+2026-03-12 15:07:30,163 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.9%
+2026-03-12 15:07:46,757 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.6%
+2026-03-12 15:08:02,098 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.8%
+2026-03-12 15:08:16,843 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.3%
+2026-03-12 15:08:32,497 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.1%
+2026-03-12 15:08:49,664 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.5%
+2026-03-12 15:09:05,719 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.8%
