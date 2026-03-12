@@ -193,3 +193,77 @@
 2026-03-12 15:10:59,167 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 93.5%
 2026-03-12 15:11:13,823 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: CPU à 92.3%
 2026-03-12 15:11:14,056 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.5%
+2026-03-12 15:11:33,648 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.2%
+2026-03-12 15:11:45,979 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 94.0%
+2026-03-12 15:12:12,091 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.2%
+2026-03-12 15:12:24,682 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 93.5%
+2026-03-12 15:14:07,062 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.3%
+2026-03-12 15:14:23,918 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.4%
+2026-03-12 15:14:38,230 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.6%
+2026-03-12 15:27:11,534 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 15:27:11,562 [INFO] Base de données initialisée
+2026-03-12 15:27:11,563 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 15:27:11,564 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 15:27:20,884 [INFO] Nouvelle connexion: ('127.0.0.1', 55471)
+2026-03-12 15:27:44,420 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: CPU à 95.8%
+2026-03-12 15:27:59,667 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 15:28:00,176 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: CPU à 98.4%
+2026-03-12 15:28:00,326 [INFO] Base de données initialisée
+2026-03-12 15:28:00,328 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 15:28:00,328 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 15:28:35,125 [INFO] Nouvelle connexion: ('127.0.0.1', 55495)
+2026-03-12 15:29:09,092 [ERROR] Erreur réception [('127.0.0.1', 55471)]: main thread is not in main loop
+2026-03-12 15:29:09,092 [INFO] Client déconnecté: ('127.0.0.1', 55471)
+2026-03-12 15:29:14,852 [ERROR] Erreur réception [('127.0.0.1', 55495)]: main thread is not in main loop
+2026-03-12 15:29:14,853 [INFO] Client déconnecté: ('127.0.0.1', 55495)
+2026-03-12 15:29:15,672 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 15:29:15,673 [INFO] Base de données initialisée
+2026-03-12 15:29:15,675 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 15:29:15,675 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 15:29:16,550 [INFO] Nouvelle connexion: ('127.0.0.1', 55518)
+2026-03-12 15:29:22,163 [INFO] Nouvelle connexion: ('127.0.0.1', 55523)
+2026-03-12 15:33:45,475 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: CPU à 100.0%
+2026-03-12 15:33:46,056 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 15:33:46,058 [INFO] Base de données initialisée
+2026-03-12 15:33:46,060 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 15:33:46,060 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 15:34:11,978 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 15:34:11,980 [INFO] Base de données initialisée
+2026-03-12 15:34:11,981 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 15:34:11,981 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 15:34:37,210 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: CPU à 100.0%
+2026-03-12 15:34:38,791 [ERROR] Erreur réception [('127.0.0.1', 55523)]: [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
+2026-03-12 15:34:38,791 [INFO] Client déconnecté: ('127.0.0.1', 55523)
+2026-03-12 15:35:03,023 [INFO] Nouvelle connexion: ('127.0.0.1', 55711)
+2026-03-12 15:35:26,242 [INFO] Nouvelle connexion: ('127.0.0.1', 55721)
+2026-03-12 15:35:54,592 [INFO] Nouvelle connexion: ('127.0.0.1', 55742)
+2026-03-12 15:42:03,668 [WARNING] ALERTE [node-PC3]: ALERTE: Mémoire à 93.7%
+2026-03-12 15:42:11,279 [WARNING] ALERTE [node-PC2]: ALERTE: Mémoire à 93.3%
+2026-03-12 15:42:14,368 [WARNING] ALERTE [node-PC1]: ALERTE: Mémoire à 90.9%
+2026-03-12 15:43:16,892 [WARNING] ALERTE [node-PC1]: ALERTE: CPU à 100.0%
+2026-03-12 15:43:42,971 [WARNING] ALERTE [node-PC2]: ALERTE: CPU à 96.4%
+2026-03-12 15:45:44,126 [ERROR] Erreur réception [('127.0.0.1', 55742)]: main thread is not in main loop
+2026-03-12 15:45:44,127 [INFO] Client déconnecté: ('127.0.0.1', 55742)
+2026-03-12 15:45:48,226 [ERROR] Erreur réception [('127.0.0.1', 55721)]: main thread is not in main loop
+2026-03-12 15:45:48,226 [INFO] Client déconnecté: ('127.0.0.1', 55721)
+2026-03-12 15:45:50,018 [ERROR] Erreur accept: cannot schedule new futures after shutdown
+2026-03-12 15:45:54,940 [ERROR] Erreur accept: cannot schedule new futures after shutdown
+2026-03-12 15:45:55,312 [ERROR] Erreur réception [('127.0.0.1', 55711)]: main thread is not in main loop
+2026-03-12 15:45:55,312 [INFO] Client déconnecté: ('127.0.0.1', 55711)
+2026-03-12 16:08:23,851 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 16:08:23,885 [INFO] Base de données initialisée
+2026-03-12 16:08:23,919 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 16:08:23,919 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 16:14:51,875 [INFO] Pool BD initialisé avec 5 connexions
+2026-03-12 16:14:51,877 [INFO] Base de données initialisée
+2026-03-12 16:14:51,879 [INFO] Serveur démarré sur 0.0.0.0:9999
+2026-03-12 16:14:51,879 [INFO] Pool de threads: ThreadPoolExecutor (max=20)
+2026-03-12 16:15:15,953 [INFO] Nouvelle connexion: ('127.0.0.1', 56782)
+2026-03-12 16:15:40,987 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.6%
+2026-03-12 16:15:56,065 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.7%
+2026-03-12 16:18:19,303 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.2%
+2026-03-12 16:18:35,248 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 90.2%
+2026-03-12 16:19:42,036 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.0%
+2026-03-12 16:19:55,651 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.6%
+2026-03-12 16:20:27,206 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 92.0%
+2026-03-12 16:20:42,874 [WARNING] ALERTE [node-DESKTOP-VMANTCS]: ALERTE: Mémoire à 91.2%

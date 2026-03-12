@@ -18,7 +18,7 @@ SERVER_HOST = "127.0.0.1"
 SERVER_PORT = 9999
 SEND_INTERVAL = 10        # secondes entre chaque envoi
 ALERT_THRESHOLD = 90      # % seuil d'alerte CPU/MEM/DISK
-NODE_ID = f"node-{platform.node()}"
+NODE_ID = "node-PC3"
 
 # Services réseaux supervisés (3)
 NETWORK_SERVICES = ["http", "ssh", "ftp"]
