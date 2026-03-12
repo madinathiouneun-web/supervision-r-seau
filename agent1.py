@@ -20,6 +20,7 @@ SEND_INTERVAL = 10        # secondes entre chaque envoi
 ALERT_THRESHOLD = 90      # % seuil d'alerte CPU/MEM/DISK
 NODE_ID = "node-PC1"
 
+
 # Services réseaux supervisés (3)
 NETWORK_SERVICES = ["http", "ssh", "ftp"]
 # Applications grand public (3)
