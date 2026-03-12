@@ -1,4 +1,4 @@
-"""
+python """
 Agent de supervision - Client TCP
 Collecte les métriques système et les envoie au serveur central
 """
